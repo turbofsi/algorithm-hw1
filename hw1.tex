@@ -65,7 +65,7 @@
 \horrule{2pt} \\[0.5cm] % Thick bottom horizontal rule
 }
 
-\author{Xinyun Lv, Yang Wang} % Your name
+\author{Xinyun Lv(1001091178), Yang Wang(1001319227)} % Your name
 
 \date{\normalsize\today} % Today's date or a custom date
 
@@ -73,66 +73,11 @@
 
 \maketitle % Print the title
 
-%----------------------------------------------------------------------------------------
-%	PROBLEM 1
-%----------------------------------------------------------------------------------------
-
-\section{Problem I}
-Sort the following functions from asymptotically smallest to asymptotically largest.
-
-\begin{center}
-	$ 2^{log_{10}{n}} \quad log_{lg{n}}{n} \quad  lg(nlog{n})  \quad  n \quad (\sqrt{2})^{lg{n}} \quad (lglgn)^{lglgn} $
-\end{center}
-
-%----------------------------------------------------------------------------------------
-%	PROBLEM 2
-%----------------------------------------------------------------------------------------
-%----------------------------------------------------------------------------------------
-\section{Problem II}
-Show that any sequence of $n^3 + 1$ numbers contains either
-\begin{itemize}
-	\item a strictly-increasing subsequence of length $n + 1$.
-	\item a strictly-decreasing subsequence of length $n + 1$, or
-	\item $n + 1$ elements with the same value.
-\end{itemize}
-
-%----------------------------------------------------------------------------------------
-%	PROBLEM 3
-%----------------------------------------------------------------------------------------
-%----------------------------------------------------------------------------------------
-\section{Problem III}
- Solve the following recurrences. State tight asymptotic bounds for each function in the form $\Theta(f(n))$ for some recognizable function $f(n)$. Prove your answer. Assume reasonable but nontrivial base cases if none are supplied.
-
-\begin{enumerate}[label=(\alph*)]
-	\item $A(n)=2A(n/4)+nloglogn$
-	\item $B(n) = B(n/2) + log n$
-	\item $C(n)=3C(n/2)+nlogn$
-	\item $F(n)=F(\floor*{logn})+logn$
-\end{enumerate}
-
-%----------------------------------------------------------------------------------------
-%	PROBLEM 4
-%----------------------------------------------------------------------------------------
-%----------------------------------------------------------------------------------------
-\section{Problem IV}
-$m$ balls are thrown into $n$ bins (independently) so that each ball is equally likely to fall into any of the bins. Estimate as precisely as you can the smallest number $m$ (as a function of $n$) so that the probability of all balls falling into different bins is smaller than $\frac{1}{n^{c}}$, for a fixed constant $c>0$.
-
-%----------------------------------------------------------------------------------------
-%	PROBLEM 5
-%----------------------------------------------------------------------------------------
-%----------------------------------------------------------------------------------------
-\section{Problem V}
-Give a combinatorial argument to prove that
-\begin{center}
-
-\end{center}
-
-
-
-
-
-
-
-
+\input{problem1.tex}
+\input{problem2.tex}
+\input{problem3.tex}
+\input{problem4.tex}
+\input{problem5.tex}
+\input{problem6.tex}
 
 \end{document}
