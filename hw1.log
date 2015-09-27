@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 SEP 2015 10:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  27 SEP 2015 07:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -577,38 +577,84 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 7.63599pt on input line 9.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 5.51999pt on input line 9.
-) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem2.tex
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 12.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+[1
+
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]) (/
+Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem2.tex
 LaTeX Font Info:    Try loading font information for TS1+futs on input line 8.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/ts1futs.fd
 File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
-)) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem3.tex)
-(/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem4.tex) (/
-Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem5.tex [1
+)
+Underfull \hbox (badness 10000) in paragraph at lines 12--22
+
+ []
 
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (/User
-s/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem6.tex) [2] (/Us
-ers/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/hw1.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 12--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--22
+
+ []
+
+) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem3.tex [
+3]) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem4.tex
+[4]) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem5.te
+x <p5img.png, id=22, 338.26375pt x 260.975pt>
+File: p5img.png Graphic file (type png)
+<use p5img.png>
+Package pdftex.def Info: p5img.png used on input line 12.
+(pdftex.def)             Requested size: 84.56572pt x 65.24359pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+
+ []
+
+[5 </Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/p5img.png>]) 
+(/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem6.tex) [6
+] (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/hw1.aux) ) 
 Here is how much of TeX's memory you used:
- 6516 strings out of 493089
- 99504 string characters out of 6134842
- 319729 words of memory out of 5000000
- 9825 multiletter control sequences out of 15000+600000
- 78597 words of font info for 101 fonts, out of 8000000 for 9000
+ 6534 strings out of 493089
+ 99710 string characters out of 6134842
+ 320739 words of memory out of 5000000
+ 9836 multiletter control sequences out of 15000+600000
+ 83544 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,10n,49p,648b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/loca
-l/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/fourier/fourier-mex.pfb></usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/fourier/fourier-ml.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texlive/2015/te
+ 63i,11n,49p,648b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/us
+r/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/fourier/fourier-mex.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/fourier/fourier-ml.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/fourier/fourier-mlit.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2015/te
 xmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dis
 t/fonts/type1/adobe/utopia/putri8a.pfb>
 Output written on /Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder
-/hw1.pdf (2 pages, 42601 bytes).
+/hw1.pdf (6 pages, 76489 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

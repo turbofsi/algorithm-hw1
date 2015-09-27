@@ -5,3 +5,20 @@
 \section{Problem V}
 Give a combinatorial argument to prove that
 $$ \sum_{i=0}^{n}\dbinom{n}{i}2^{i} = 3^n $$
+
+\textbf{Solution:} \\
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.25]{p5img}
+\caption{Problem 5}
+\label{fig:p5}
+\end{figure}\\
+
+As shown in Figure \ref{fig:p5}, $n$ balls are thrown into 3 bins name A, B and C. The number of ways for $n$ balls falling into 3 bins is $3^n$ \\
+\\
+Also, the number of ways for $n$ balls not falling into bin C for $i$ times is: $\dbinom{n}{i} 2^{i}$. Then , we have the possibility of $n$ balls not falling into bin C for i times is:
+$$\frac{\dbinom{n}{i} 2^{i}}{3^n}$$
+As $0 \leq i \leq n$, the sum of possibilities of $\frac{\dbinom{n}{i} 2^{i}}{3^n}$ from $i = 0$ to $i = n$ should be 1, as it contains all the possible results for throwing $n$ balls into 3 bins.\\
+Therefore,
+$$ \frac{\sum_{i=0}^{n}\dbinom{n}{i}2^{i}}{3^n} = 1$$
+$$\sum_{i=0}^{n}\dbinom{n}{i}2^{i} = 3^n$$

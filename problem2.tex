@@ -9,3 +9,19 @@ Show that any sequence of $n^3 + 1$ numbers contains either
 	\item a strictly-decreasing subsequence of length $n + 1$, or
 	\item $n + 1$ elements with the same value.
 \end{itemize}
+\textbf{Proof:} \\
+ Let $a_1, a_2, ..., a_{n^3 + 1}$ be a sequence of $n^3 + 1$ distinct real numbers. Let $f(n)$ be a function such that $ f(a_k) = (i_k, d_k, s_k) $ with $i_k$ being the length of the longest increasing subsequence starting at $a_k$ and $d_k$ being the length of the longest decreasing subsequence starting at $a_k$ and $s_k$ being the lenght of longest identical subsequence starting at $a_k$. \\
+ \\
+Suppose that the longest length of $i_k$, $d_k$ and $s_k$ is $n$. Then each $i_k$, $d_k$ and $s_k$ must between 1 and $n$\\
+\\
+This means there are $n^3$ possible $f(a_k) = (i_k, d_k, s_k)$. Since $k$ ranges from 1 to $n^3 + 1$, by the PHP theorem at least two of the $f(a_k)$ must contain the same values.\\
+\\
+This meas there must exist s < t such that $f(a_s) = f(a_t)$. So we have $i_s = i_t$, $d_s = d_t$ and $s_s = s_t$.\\
+we have 3 cases:\\
+\begin{itemize}
+	\item if $a_s < a_t$ then $a_s$ could be added to the first of increasing sequence begin with $a_t$, which means $ i_s \ne i_t $. - a contradiction
+	\item if $a_s > a_t$ then $a_s$ could be added to the first of decreasing sequence begin with $a_t$, which means $ d_s \ne d_t $. - a contradiction
+	\item if $a_s = a_t$ then $a_s$ could be added to the identical sequence begin with $a_t$, which means $ s_s \ne s_t $. - a contradiction
+\end{itemize}
+
+Therefore, there must be an increasing, decreasing or identical subsequence of length $n+1$.

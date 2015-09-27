@@ -9,3 +9,59 @@ Sort the following functions from asymptotically smallest to asymptotically larg
 	$ 2^{log_{10}{n}} \quad log_{lg{n}}{n} \quad  lg(nlog{n})  \quad  n \quad (\sqrt{2})^{lg{n}} \quad (lglgn)^{lglgn} $
 \end{center}
 
+\textbf{Solution:} \\
+
+We could find that
+$$\lim_{n\to\infty} \frac{\sqrt{2}^{lgn}}{n} = \lim_{n\to\infty} \frac{n^{0.5}}{n} = \lim_{n\to\infty} \frac{1}{n^{0.5}} = 0$$
+So 
+$$\sqrt{2}^{lgn} = o(n)$$
+
+Similarly we have
+$$\lim_{n\to\infty} \frac{2^{log_{10}n}}{\sqrt{2}^{lgn}} = \lim_{n\to\infty} \frac{n^{log_{10}2}}{n^{0.5}} = \lim_{n\to\infty} \frac{1}{n^{0.5 - log_{10}2}}$$
+since $0.5 - log_{10}2 > 0$
+$$ \lim_{n\to\infty} \frac{1}{n^{0.5 - log_{10}2}} = 0 $$
+So 
+$$ 2^{log_{10}n} = o(\sqrt{2}^{lgn})$$
+
+To compare $2^{log_{10}n}$ and $(lglgn)^{lglgn}$,\\
+We apply $log()$ on both side\\
+LHS:
+$$lg(2^{log_{10}n}) = lg_{10}2lgn$$
+RHS:
+$$lg((lglgn)^{lglgn}) = lglgn lglglgn < (lglgn)^2$$
+Then we have:
+$$ \lim_{n\to\infty} \frac{(lglgn)^2}{lg_{10}2lgn} = \lim_{n\to\infty} \frac{2lglgn}{log_{10}2ln2lgn}  = \lim_{n\to\infty} \frac{2}{log_{10}2ln^22lgn} = 0$$
+Then we have
+$$ (lglgn)^2 = o(2^{log_{10}n}) $$
+And $lglgn lglglgn < (lglgn)^2$, so
+$$ (lglgn)^{lglgn} = o(2^{log_{10}n}) $$
+
+To compare $(lglgn)^{lglgn}$ and $lg(nlog{n})$,\\
+We apply $log()$ on both side\\
+LHS:
+$$log(lg(nlog{n})) = lg(lgn + lglgn) < lg(2lgn)$$
+RHS:
+$$log((lglgn)^{lglgn}) = lglgn lglglgn$$
+Then we have:
+$$\lim_{n\to\infty} \frac{lg(2lgn)}{lglgn lglglgn} = \lim_{n\to\infty} \frac{1 + lglgn}{lglgn lglglgn}  = \lim_{n\to\infty} \frac{1}{lglgn lglglgn} + \frac{1}{lglglgn} = 0$$
+Then we have
+$$ lg(2lgn) = o(lglgn lglglgn) $$
+And $lg(lgn + lglgn) < lg(2lgn)$, so
+$$ lg(nlog{n}) = o((lglgn)^{lglgn}) $$
+
+To compare $log_{lg{n}}{n}$ and $lg(nlog{n})$,\\
+LHS:
+$$log_{lg{n}}{n} = \frac{lgn}{lglgn}$$
+RHS:
+$$lg(nlog{n}) = lgn + lglgn > lgn$$
+Then we have:
+$$\lim_{n\to\infty} \frac{\frac{lgn}{lglgn}}{lgn} = 0$$
+So, 
+$$log_{lg{n}}{n} = \frac{lgn}{lglgn} = o(lgn)$$
+Since,
+$$lgn + lglgn > lgn$$
+Therefore, 
+$$log_{lg{n}}{n} = o(lgn + lglgn) = o(lg(nlog{n}))$$
+
+In conlusion, 
+$$n >> (\sqrt{2})^{lg{n}} >> 2^{log_{10}{n}} >> (lglgn)^{lglgn} >> lg(nlog{n}) >> log_{lg{n}}{n}$$
