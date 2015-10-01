@@ -28,12 +28,12 @@ We apply $log()$ on both side\\
 LHS:
 $$lg(2^{log_{10}n}) = lg_{10}2lgn$$
 RHS:
-$$lg((lglgn)^{lglgn}) = lglgn lglglgn < (lglgn)^2$$
+$$lg((lglgn)^{lglgn}) = lglgn\cdot lglglgn < (lglgn)^2$$
 Then we have:
 $$ \lim_{n\to\infty} \frac{(lglgn)^2}{lg_{10}2lgn} = \lim_{n\to\infty} \frac{2lglgn}{log_{10}2ln2lgn}  = \lim_{n\to\infty} \frac{2}{log_{10}2ln^22lgn} = 0$$
 Then we have
 $$ (lglgn)^2 = o(2^{log_{10}n}) $$
-And $lglgn lglglgn < (lglgn)^2$, so
+And $lglgn\cdot lglglgn < (lglgn)^2$, so
 $$ (lglgn)^{lglgn} = o(2^{log_{10}n}) $$
 
 To compare $(lglgn)^{lglgn}$ and $lg(nlog{n})$,\\
@@ -41,11 +41,11 @@ We apply $log()$ on both side\\
 LHS:
 $$log(lg(nlog{n})) = lg(lgn + lglgn) < lg(2lgn)$$
 RHS:
-$$log((lglgn)^{lglgn}) = lglgn lglglgn$$
+$$log((lglgn)^{lglgn}) = lglgn\cdot lglglgn$$
 Then we have:
-$$\lim_{n\to\infty} \frac{lg(2lgn)}{lglgn lglglgn} = \lim_{n\to\infty} \frac{1 + lglgn}{lglgn lglglgn}  = \lim_{n\to\infty} \frac{1}{lglgn lglglgn} + \frac{1}{lglglgn} = 0$$
+$$\lim_{n\to\infty} \frac{lg(2lgn)}{lglgn\cdot lglglgn} = \lim_{n\to\infty} \frac{1 + lglgn}{lglgn\cdot lglglgn}  = \lim_{n\to\infty} \frac{1}{lglgn\cdot lglglgn} + \frac{1}{lglglgn} = 0$$
 Then we have
-$$ lg(2lgn) = o(lglgn lglglgn) $$
+$$ lg(2lgn) = o(lglgn\cdot lglglgn) $$
 And $lg(lgn + lglgn) < lg(2lgn)$, so
 $$ lg(nlog{n}) = o((lglgn)^{lglgn}) $$
 

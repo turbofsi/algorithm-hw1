@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  27 SEP 2015 07:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 OCT 2015 00:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -396,73 +396,6 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_below_intertext_sep=\dimen120
 \l_MT_above_shortintertext_sep=\dimen121
 \l_MT_below_shortintertext_sep=\dimen122
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/sectsty/sectsty.sty
-Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
-les
-)
-
-Class scrartcl Warning: Usage of package `fancyhdr' together
-(scrartcl)              with a KOMA-Script class is not recommended.
-(scrartcl)              I'd suggest to use 
-(scrartcl)              package `scrlayer-scrpage'.
-(scrartcl)              Nevertheless, using requested
-(scrartcl)              package `fancyhdr' on input line 39.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip59
-\f@ncyO@elh=\skip60
-\f@ncyO@erh=\skip61
-\f@ncyO@olh=\skip62
-\f@ncyO@orh=\skip63
-\f@ncyO@elf=\skip64
-\f@ncyO@erf=\skip65
-\f@ncyO@olf=\skip66
-\f@ncyO@orf=\skip67
-) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/hw1.aux)
-\openout1 = `hw1.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 72.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 72.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmlfutm.fd
-File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
-)
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 72.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 72.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmsfutm.fd
-File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
-)
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 72.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 72.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmxfutm.fd
-File: fmxfutm.fd futm-extension
-)
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 72.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Try loading font information for T1+futs on input line 72.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/t1futs.fd
-File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
@@ -481,20 +414,143 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count107
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+))
+\Gin@req@height=\dimen123
+\Gin@req@width=\dimen124
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@tempdima=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count108
+)
+\c@KVtest=\count109
+\sf@farskip=\skip59
+\sf@captopadj=\dimen132
+\sf@capskip=\skip60
+\sf@nearskip=\skip61
+\c@subfigure=\count110
+\c@subfigure@save=\count111
+\c@lofdepth=\count112
+\c@subtable=\count113
+\c@subtable@save=\count114
+\c@lotdepth=\count115
+\sf@top=\skip62
+\sf@bottom=\skip63
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count116
+\lst@gtempboxa=\box30
+\lst@token=\toks27
+\lst@length=\count117
+\lst@currlwidth=\dimen133
+\lst@column=\count118
+\lst@pos=\count119
+\lst@lostspace=\dimen134
+\lst@width=\dimen135
+\lst@newlines=\count120
+\lst@lineno=\count121
+\lst@maxwidth=\dimen136
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count122
+\lst@skipnumbers=\count123
+\lst@framebox=\box31
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer-scrpage'.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 42.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip64
+\f@ncyO@elh=\skip65
+\f@ncyO@erh=\skip66
+\f@ncyO@olh=\skip67
+\f@ncyO@orh=\skip68
+\f@ncyO@elf=\skip69
+\f@ncyO@erf=\skip70
+\f@ncyO@olf=\skip71
+\f@ncyO@orf=\skip72
+) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/hw1.aux)
+\openout1 = `hw1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 75.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 75.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmlfutm.fd
+File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
+)
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 75.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 75.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmsfutm.fd
+File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
+)
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 75.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 75.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmxfutm.fd
+File: fmxfutm.fd futm-extension
+)
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 75.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 75.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/t1futs.fd
+File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
+) (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count108
-\scratchdimen=\dimen123
-\scratchbox=\box30
-\nofMPsegments=\count109
-\nofMParguments=\count110
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count111
-\MPscratchDim=\dimen124
-\MPnumerator=\count112
-\makeMPintoPDFobject=\count113
-\everyMPtoPDFconversion=\toks28
-))) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+\scratchcounter=\count124
+\scratchdimen=\dimen137
+\scratchbox=\box32
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen138
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
+\everyMPtoPDFconversion=\toks29
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
@@ -533,35 +589,37 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\Gin@req@height=\dimen125
-\Gin@req@width=\dimen126
-)
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 75.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count130
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 78.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 75
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 78
 .
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 75.
+(Font)              scaled to size 13.24796pt on input line 78.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 75.
+(Font)              scaled to size 9.19998pt on input line 78.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 75.
+(Font)              scaled to size 7.35999pt on input line 78.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 75.
+(Font)              scaled to size 13.24796pt on input line 78.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 75.
+(Font)              scaled to size 9.19998pt on input line 78.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 75.
-LaTeX Font Info:    Try loading font information for U+msa on input line 75.
+(Font)              scaled to size 7.35999pt on input line 78.
+LaTeX Font Info:    Try loading font information for U+msa on input line 78.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 75.
+LaTeX Font Info:    Try loading font information for U+msb on input line 78.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem1.tex
@@ -613,9 +671,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--22
  []
 
 ) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem3.tex [
-3]) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem4.tex
-[4]) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem5.te
-x <p5img.png, id=22, 338.26375pt x 260.975pt>
+3]
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+<p3b.png, id=16, 315.1775pt x 401.5pt>
+File: p3b.png Graphic file (type png)
+<use p3b.png>
+Package pdftex.def Info: p3b.png used on input line 29.
+(pdftex.def)             Requested size: 88.24908pt x 112.41922pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--36
+
+ []
+
+[4 </Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/p3b.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+[5]) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem4.te
+x [6]) (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem5.
+tex <p5img.png, id=31, 338.26375pt x 260.975pt>
 File: p5img.png Graphic file (type png)
 <use p5img.png>
 Package pdftex.def Info: p5img.png used on input line 12.
@@ -630,31 +743,80 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--20
 
  []
 
-[5 </Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/p5img.png>]) 
-(/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem6.tex) [6
-] (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/hw1.aux) ) 
+[7 </Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/p5img.png>]) 
+(/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/problem6.tex <pa
+th1.png, id=37, 237.88875pt x 230.8625pt>
+File: path1.png Graphic file (type png)
+<use path1.png>
+Package pdftex.def Info: path1.png used on input line 14.
+(pdftex.def)             Requested size: 83.64983pt x 81.18001pt.
+<path2.png, id=38, 228.855pt x 185.69376pt>
+File: path2.png Graphic file (type png)
+<use path2.png>
+Package pdftex.def Info: path2.png used on input line 17.
+(pdftex.def)             Requested size: 83.64983pt x 67.87257pt.
+<path3.png, id=39, 230.8625pt x 187.70125pt>
+File: path3.png Graphic file (type png)
+<use path3.png>
+Package pdftex.def Info: path3.png used on input line 20.
+(pdftex.def)             Requested size: 83.64983pt x 68.01059pt.
+<path4.png, id=40, 230.8625pt x 182.6825pt>
+File: path4.png Graphic file (type png)
+<use path4.png>
+Package pdftex.def Info: path4.png used on input line 23.
+(pdftex.def)             Requested size: 83.64983pt x 66.19212pt.
+<path5.png, id=41, 229.85875pt x 183.68625pt>
+File: path5.png Graphic file (type png)
+<use path5.png>
+Package pdftex.def Info: path5.png used on input line 26.
+(pdftex.def)             Requested size: 83.64983pt x 66.8473pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--31
+
+ []
+
+[8 </Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/path1.png> </
+Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/path2.png> </Users
+/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/path3.png> </Users/appl
+e/Documents/2015-FALL/ece1762/homeworks/hw1-folder/path4.png> </Users/apple/Doc
+uments/2015-FALL/ece1762/homeworks/hw1-folder/path5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+) [9] (/Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder/hw1.aux) )
+ 
 Here is how much of TeX's memory you used:
- 6534 strings out of 493089
- 99710 string characters out of 6134842
- 320739 words of memory out of 5000000
- 9836 multiletter control sequences out of 15000+600000
- 83544 words of font info for 106 fonts, out of 8000000 for 9000
+ 8929 strings out of 493089
+ 139061 string characters out of 6134842
+ 365740 words of memory out of 5000000
+ 12201 multiletter control sequences out of 15000+600000
+ 88193 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,11n,49p,648b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/us
-r/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/fourier/fourier-mex.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/fourier/fourier-ml.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/fourier/fourier-mlit.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2015/te
-xmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dis
-t/fonts/type1/adobe/utopia/putri8a.pfb>
+ 50i,14n,54p,1325b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/fourier/fourier-mex.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/fourier/fourier-ml.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/fourier/fourier-mlit.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/adobe/utopia/putri8a.pfb>
 Output written on /Users/apple/Documents/2015-FALL/ece1762/homeworks/hw1-folder
-/hw1.pdf (6 pages, 76489 bytes).
+/hw1.pdf (9 pages, 181137 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
